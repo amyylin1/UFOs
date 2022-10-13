@@ -9,11 +9,18 @@ This analysis aims to filter the UFO sightings on additional criteria, such as c
 
 ![Screen Shot 2022-10-13 at 5 34 36 PM](https://user-images.githubusercontent.com/108419097/195716300-17238d08-cc1e-4ce0-9830-922ffc61e857.png)
 
-### Fig. 2 Filter for Date, City, etc.
+### Fig. 2 Filtering for Dates. 
+
+Type in "1/4/2010" in the "Enter Date" box will yield all the findings for that date. Make sure to follow the suggested placeholder elements precisely to avoid failed search. 
+
+![Screen Shot 2022-10-13 at 5 52 27 PM](https://user-images.githubusercontent.com/108419097/195717955-422421e2-b202-4913-88c2-22e5d7557008.png)
+
+### Fig. 3.  Filtering for Date, City, State, etc.
+
+Type in information for Date, City, State, etc may yield a more specific result.  
 
 ![Screen Shot 2022-10-13 at 5 34 11 PM](https://user-images.githubusercontent.com/108419097/195717482-1116d260-5cf8-4750-90f7-eecded463d1a.png)
 
-### 
 
 ## 3. Summary:
 
