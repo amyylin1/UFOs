@@ -17,10 +17,15 @@ Type in "1/4/2010" in the "Enter Date" box will yield all the findings for that 
 
 ### Fig. 3.  Filtering for Date, City, State, etc.
 
-Type in information for Date, City, State, etc may yield a more specific result.  
+Type in the information for Date, City, State, etc, may yield a more specific result.  
 
 ![Screen Shot 2022-10-13 at 5 34 11 PM](https://user-images.githubusercontent.com/108419097/195717482-1116d260-5cf8-4750-90f7-eecded463d1a.png)
 
 
 ## 3. Summary:
 
+Since the program can only understand rigid structures,  incorrect data input will lead to a false search.  
+Recommendation 1: 
+Design a drop-down menu, so the user can select items from the list to minimize incorrect input.
+Recommendation 2:
+Design a less rigid input structure to understand names from both uppercase and lowercase spelling. 
