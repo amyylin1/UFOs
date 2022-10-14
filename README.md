@@ -5,7 +5,7 @@ This analysis aims to make an interactive site to filter the UFO sightings on ad
 
 ## 2. Results:
 
-### Fig. 1 Welcome to UFO Sightings!  The "Filter Search" is prefilled with default selections
+### Fig. 1 Welcome to UFO Sightings!  The "Filter Search" is prefilled with placeholder
 
 ![Screen Shot 2022-10-13 at 5 34 36 PM](https://user-images.githubusercontent.com/108419097/195716300-17238d08-cc1e-4ce0-9830-922ffc61e857.png)
 
