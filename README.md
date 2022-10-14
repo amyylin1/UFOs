@@ -1,7 +1,7 @@
 # UFOs
 
 ## 1. Overview of Project:
-This analysis aims to filter the UFO sightings on additional criteria, such as city, state, country, and shape. 
+This analysis aims to make an interactive site to filter the UFO sightings on additional criteria, such as city, state, country, and shape, from user input.  
 
 ## 2. Results:
 
